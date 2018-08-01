@@ -1,0 +1,36 @@
+.link:hover {
+  color: white;
+  padding-bottom: 7.5px;
+  border-bottom: solid white;
+  text-decoration: none;
+}
+
+.link-selected {
+  color: white;
+  padding-bottom: 7.5px;
+  border-bottom: solid white;
+  text-decoration: none;
+}
+.link-selected:hover {
+  color: white;
+  padding-bottom: 7.5px;
+  border-bottom: solid white;
+  text-decoration: none;
+}
+
+.link {
+  color: black;
+}
+.listCSS {
+  margin-left: 3rem;
+}
+
+@media (max-width: 820px) {
+  .dataBarCSS {
+    display: flex;
+    justify-content: center;
+  }
+  .listCSS {
+    margin-left: 0;
+  }
+}

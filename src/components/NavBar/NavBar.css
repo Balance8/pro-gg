@@ -1,0 +1,9 @@
+.navCSS {
+  margin-left: 3rem;
+}
+
+@media (max-width: 820px) {
+  .navCSS {
+    margin-left: 0px;
+  }
+}

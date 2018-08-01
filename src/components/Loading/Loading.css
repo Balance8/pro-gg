@@ -1,0 +1,11 @@
+.katGif {
+  display: flex;
+  justify-content: center;
+  /* font-family: lolFont; */
+}
+
+/* @font-face {
+  font-family: lolFont;
+  src: url(Beaufort-Bold.tff);
+  font-weight: bold;
+} */
